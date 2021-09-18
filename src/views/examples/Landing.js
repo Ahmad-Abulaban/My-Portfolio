@@ -24,7 +24,7 @@ import ill2 from "assets/img/ill/ill-2.svg";
 import team1 from "assets/img/theme/team-1-800x800.jpg";
 import team2 from "assets/img/theme/team-2-800x800.jpg";
 import team3 from "assets/img/theme/team-3-800x800.jpg";
-import team4 from "assets/img/theme/team-4-800x800.jpg";
+import team4 from "assets/img/theme/Ahmad.jpg";
 
 // reactstrap components
 import {
@@ -81,13 +81,10 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
-                        <span>completed with examples</span>
+                      Good web and mobile app programming{" "}
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                      I want to be a web and mobile programmer and am excited to gain a lot of experience and skills to achieve my goal.
                       </p>
                       <div className="btn-wrapper">
                         <Button
@@ -148,12 +145,10 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
+                            Hand2Hand
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          An application that connects handicraft makers in one place.
                           </p>
                           <div>
                             <Badge color="primary" pill className="mr-1">
@@ -163,7 +158,7 @@ class Landing extends React.Component {
                               system
                             </Badge>
                             <Badge color="primary" pill className="mr-1">
-                              creative
+                            Programming
                             </Badge>
                           </div>
                           <Button
@@ -184,22 +179,20 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
+                          Chocolate-Pizza
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          Copy of the Chocolate-Pizza page.
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
-                              business
+                            design
                             </Badge>
                             <Badge color="success" pill className="mr-1">
-                              vision
+                            system
                             </Badge>
                             <Badge color="success" pill className="mr-1">
-                              success
+                            Programming
                             </Badge>
                           </div>
                           <Button
@@ -220,22 +213,20 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                            Prepare Launch
+                          bus-mall
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          Web page that filters images.
                           </p>
                           <div>
                             <Badge color="warning" pill className="mr-1">
-                              marketing
+                            design
                             </Badge>
                             <Badge color="warning" pill className="mr-1">
-                              product
+                            system
                             </Badge>
                             <Badge color="warning" pill className="mr-1">
-                              launch
+                            Programming
                             </Badge>
                           </div>
                           <Button

@@ -90,7 +90,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/Ahmad-Abulaban"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -112,7 +112,7 @@ class SimpleFooter extends React.Component {
                     href="https://www.creative-tim.com?ref=adsr-footer"
                     target="_blank"
                   >
-                    Creative Tim
+                    Creative Ahmad
                   </a>
                   .
                 </div>
@@ -124,7 +124,7 @@ class SimpleFooter extends React.Component {
                       href="https://www.creative-tim.com?ref=adsr-footer"
                       target="_blank"
                     >
-                      Creative Tim
+                      Creative Ahmad
                     </NavLink>
                   </NavItem>
                   <NavItem>
